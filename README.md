@@ -95,10 +95,10 @@ plt.legend()
 ```
 
 ### Accuracy Graph:
-![Accuracy Graph](path/to/accuracy_graph.png)
+![Accuracy Graph](Visualisation_of_Accuracy.png)
 
 ### Loss Graph:
-![Loss Graph](path/to/loss_graph.png)
+![Loss Graph](Visualisation_of_Loss.png)
 
 ## Requirements
 - Python 3.x
